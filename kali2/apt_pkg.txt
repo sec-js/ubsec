@@ -1,0 +1,28 @@
+apt-get -yf install \
+mdk3 jad pwnat statsprocessor thc-pptp-bruter siparmyknife mitmproxy killerbee mfoc \
+ddrescue enum4linux bluesnarfer beef-xss linux-exploit-suggester gpp-decrypt thc-ipv6 cryptcat lynis \
+bed arachni john python-distorm3 slowhttptest nipper-ng masscan pipal openvas-manager \
+dnsenum w3af apktool arduino p0f polenum sakis3g urlcrazy keepnote \
+sipp ipv6-toolkit sqlsus parsero wifi-honey snmpcheck wireshark cdpsnarf maltego-teeth \
+wpscan dirb dirbuster oclgausscrack openvas-cli theharvester aircrack-ng dnsrecon termineter \
+padbuster ua-tester sfuzz funkload smtp-user-enum redfang uniscan xspy fierce \
+yersinia webshells rtpbreak johnny copy-router-config twofi greenbone-security-assistant casefile httptunnel \
+hexinject cuckoo xsser binwalk hash-identifier foremost extundelete dbd weevely \
+jd sslstrip cisco-global-exploiter sctpscan metagoofil enumiax armitage goofile pdfid \
+cymothoa keimpx kismet webscarab bluelog fimap rtpflood creddump rtpinsertsound \
+voiphopper automater ncrack mfterm guymager dns2tcp sbd sslsplit joomscan \
+yara crackle android-sdk ace-voip shellnoob pack spooftooph fragrouter davtest \
+rcracki-mt lbd wol-e sslcaudit hping3 powerfuzzer sqlninja unix-privesc-check iaxflood \
+nishang sslyze ollydbg grabber tlssled rsmangler braa fragroute edb-debugger \
+wifitap patator findmyhash multimon-ng mfcuk u3-pwn bbqsql exploitdb paros \
+golismero proxystrike ridenum galleta gqrx pdgmail inviteflood chntpw smali \
+reaver zaproxy fern-wifi-cracker volatility thc-ssl-dos dhcpig truecrack rebind hexorbase \
+cisco-ocs deblaze cisco-torch t50 jboss-autopwn amap oscanner dnsmap dnswalk \
+recon-ng dotdotpwn responder hamster-sidejack rainbowcrack doona apache-users powersploit blindelephant \
+eapmd5pass intersect dos2unix dmitry cisco-auditing-tool pdf-parser cewl kalibrate-rtl ghost-phisher \
+sipvicious bully firewalk wifite maskprocessor asleap skipfish cowpatty rtpmixsound \
+miranda set dumpzilla ohrwurm backdoor-factory dnstracer pixiewps xplico sqlmap \
+sniffjoke multiforcer cookie-cadger dradis dnschef intrace valgrind giskismet wfuzz \
+nmap crunch protos-sip bulk-extractor dex2jar burpsuite blueranger wordlists websploit \
+sidguesser tnscmd10g javasnoop cmospwd cutycapt dnmap plecost fiked peepdf \
+ismtp openvas-scanner dc3dd jsql
